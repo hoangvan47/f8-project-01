@@ -111,6 +111,8 @@ a {
 }
 /* Cilents */
 .clients  {
+    width: 1110px;
+    margin: 0 auto;
     margin-top: 79px;
     padding: 43px 0 64px ;
 }
